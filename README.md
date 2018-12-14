@@ -9,7 +9,7 @@
 2. Membaca input dari keyboard `else if(nilai[a] > maks)`.
 3. Membandingkan nilai variable //output minimum dan maksimum.
 
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan1/Flowchart1.png)
 
 ![Screenshoot](
 
@@ -51,7 +51,7 @@ return 0;
 }
 ```
 
-## Latihan2.cpp : Tentukan modus dari n buah bilangan bulat, dimana besar datanya antara 1 sampai dengan 10.
+## Latihan2.cpp : "Menentukan modus dari n buah bilangan bulat, dimana besar datanya antara 1 sampai dengan 10".
 
 **Alur algoritma**
 
@@ -137,7 +137,7 @@ return 0;
 }
 ```
 
-## Latihan3.cpp : Buatlah algoritma dan program untuk mengalikan dua buah matriks.
+## Latihan3.cpp : "Membuat algoritma dan program untuk mengalikan dua buah matriks".
 
 **Alur algoritma**
 
@@ -261,7 +261,7 @@ return 0;
 }
 ```
 
-## Latihan4.cpp : Buatlah algortima dan program untuk menghasilkan transpose suatu matriks.
+## Latihan4.cpp : "MEmbuat algortima dan program untuk menghasilkan transpose suatu matriks".
 
 **Alur algoritma**
 
