@@ -11,7 +11,7 @@
 
 ![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan1/Flowchart1.png)
 
-![Screenshoot](
+![Screenshoot](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan1/SS1.png)
 
 **CODE PROGRAM**
 
