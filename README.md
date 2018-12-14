@@ -61,7 +61,7 @@ return 0;
 
 ![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan2/Flowchart2.png)
 
-![Screnshoot](
+![Screnshoot](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan2/SS2.png)
 
 **CODE PROGRAM**
 
@@ -150,9 +150,9 @@ return 0;
  			return 0;
  			}
 
-![Flowchart]
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan3/Flowchart3.png)
 
-![Screenshot](
+![Screenshot](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan3/SS3.png)
 
 **CODE PROGRAM**
 
@@ -269,9 +269,9 @@ return 0;
 2. Membaca input dari keyboard 'int a[10][10],m,n,i,j;'.
 3. Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan4/Flowchart4.png)
 
-![Screenshoot](
+![Screenshoot](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan4/SS4.png)
 
 **CODE PROGRAM** 
 
