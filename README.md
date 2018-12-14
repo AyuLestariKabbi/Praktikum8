@@ -5,9 +5,9 @@
 
 **Alur algoritma**
 
-1.Mendeklarasikan variabel `int nilai[3],a,min,maks;` sebagai variable input.
-2.Membaca input dari keyboard `else if(nilai[a] > maks)`
-3.Membandingkan nilai variable //output minimum dan maksimum
+1. Mendeklarasikan variabel `int nilai[3],a,min,maks;` sebagai variable input.
+2. Membaca input dari keyboard `else if(nilai[a] > maks)`.
+3. Membandingkan nilai variable //output minimum dan maksimum.
 
 ![Flowchart](
 
@@ -55,9 +55,9 @@ return 0;
 
 **Alur algoritma**
 
-1.Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
-2.Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
-3.Membandingkan nilai variable HitungStatistik run;
+1. Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
+2. Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'.
+3. Membandingkan nilai variable HitungStatistik run;
 
 ![Flowchart](
 
@@ -141,9 +141,9 @@ return 0;
 
 **Alur algoritma**
 
-1.Mendeklarasikan variabel `//input matrik pertama void matrik_1(){` sebagai variable input.
-2.Membaca input dari keyboard `//output matrik pertama cout<<"Matrik Pertama :"<<endl;`
-3.Membandingkan nilai variable main (){ matrik_1(); matrik_2();
+1. Mendeklarasikan variabel `//input matrik pertama void matrik_1(){` sebagai variable input.
+2. Membaca input dari keyboard `//output matrik pertama cout<<"Matrik Pertama :"<<endl;`.
+3. Membandingkan nilai variable main (){ matrik_1(); matrik_2();
 
  			hasil();
  			getch();
@@ -265,9 +265,9 @@ return 0;
 
 **Alur algoritma**
 
-1.Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
-2.Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
-3.Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
+1. Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
+2. Membaca input dari keyboard 'int a[10][10],m,n,i,j;'.
+3. Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
 ![Flowchart](
 
