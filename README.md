@@ -59,7 +59,7 @@ return 0;
 2. Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'.
 3. Membandingkan nilai variable HitungStatistik run;
 
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum8/master/Latihan2/Flowchart2.png)
 
 ![Screnshoot](
 
